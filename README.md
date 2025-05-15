@@ -38,4 +38,8 @@ State management for dynamic workout data
 
 Modular component structure
 
+
 📸 Preview
+<img width="309" alt="Screenshot 2025-05-14 at 7 30 47 PM" src="https://github.com/user-attachments/assets/9326c7bd-a4d0-498d-9872-a<img width="309" alt="Screenshot 2025-05-14 at 7 31 21 PM" src="https://github.com/user-attachments/assets/105ab180-9fc9-4d03-bee1-b5a52e49611d" />
+29a596cf262" />
+<img width="309" alt="Screenshot 2025-05-14 at 7 31 12 PM" src="https://github.com/user-attachments/assets/4a294393-402e-4090-9c8e-c827790470e3" />
